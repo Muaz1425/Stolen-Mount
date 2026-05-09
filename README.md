@@ -1,5 +1,5 @@
 
-# Stolen Mount
+# Stolen Mount Room
 
 Writeup about TryHackme Stolen Mount Challenge Room
 
